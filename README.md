@@ -2,11 +2,12 @@
 <div align="center">
 
 <img align="center" src = "https://raw.githubusercontent.com/yusufadell/yusufadell/main/icons/yusuf.gif">
+  <br>
 <p align="center"> 
 <img width = "40%" align="center" src ="https://readycle.com/content/images/2021/04/Code-typing-bro-ai.png"></p>
   
 <h1 align="center">Hi <img width = "30" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm mina</h1>
-<h3 align="center">A semi-seniour Computer Science interested in Software Engineer, mainly Android, with +3 years of experience </h3>
+<h3 align="center">A semi-seniour Computer Science interested in Software Engineer, mainly Android, with +3 years of experience.</h3>
 <br>
   </div>
 <h2 align="center"> About Me 🙋‍♂️</h2>
@@ -52,19 +53,12 @@
  
  
 <p align="center">
-<img width = "50%"  align="left" src="https://github-readme-stats.vercel.app/api?username=mina0maher&show_icons=true&locale=en" alt="mina0maher" />
-<img width = "50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina0maher&show_icons=true&locale=en&layout=compact" alt="mina0maher" />
+<img width = "40%"  align="center" src="https://github-readme-stats.vercel.app/api?username=mina0maher&show_icons=true&locale=en" alt="mina0maher" />
+<img width = "47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina0maher&show_icons=true&locale=en&layout=compact" alt="mina0maher" />
 </p>
 
 
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-    <br><br>
-  <br><br>
-  <br><br>
-<br><br>
+  <br>
 <p align="center">
 <img width ="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina0maher&" alt="mina0maher" /></p>
 </div>
