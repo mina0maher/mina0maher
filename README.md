@@ -7,7 +7,7 @@
 <img width = "40%" align="center" src ="https://readycle.com/content/images/2021/04/Code-typing-bro-ai.png"></p>
   
 <h1 align="center">Hi <img width = "30" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm mina</h1>
-<h3 align="center">A semi-seniour Computer Science interested in Software Engineer, mainly Android, with +3 years of experience.</h3>
+<h3 align="center">A semi-seniour Computer Science student, interested in Software Engineer, mainly Android, with +3 years of experience.</h3>
 <br>
   </div>
 <h2 align="center"> About Me 🙋‍♂️</h2>
