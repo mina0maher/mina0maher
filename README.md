@@ -61,6 +61,13 @@
   <br>
 <p align="center">
 <img width ="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina0maher&" alt="mina0maher" /></p>
+  <br>
+  
+![mina's stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mina0maher&theme=nord_bright)
+
+
+   <br>
+  <img src = "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
 </div>
 
 <br>
