@@ -44,31 +44,30 @@
 <br>
 <br>
   <br>
+  <div align="center">
 <p align="center" > 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width ="90%" src="https://github-profile-trophy.vercel.app/?username=mina0maher" alt="mina0maher" />
   </a> </p>
-  <br>
-  <br>
-<p>
+ 
+ 
+<p align="center">
 <img width = "50%"  align="left" src="https://github-readme-stats.vercel.app/api?username=mina0maher&show_icons=true&locale=en" alt="mina0maher" />
 <img width = "50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina0maher&show_icons=true&locale=en&layout=compact" alt="mina0maher" />
-<br>
-  <br>
 </p>
 
-<br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br>
 
-<br>
-<p align="center"><img width ="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina0maher&" alt="mina0maher" /></p>
-
+  <br><br>
+  <br><br>
+  <br><br>
+  <br><br>
+    <br><br>
+  <br><br>
+  <br><br>
+<br><br>
+<p align="center">
+<img width ="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina0maher&" alt="mina0maher" /></p>
+</div>
 
 <br>
 
