@@ -47,20 +47,20 @@
   <br>
   <div align="center">
 <p align="center" > 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width ="90%" src="https://github-profile-trophy.vercel.app/?username=mina0maher" alt="mina0maher" />
+  <a cache_seconds="1800" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img cache_seconds="1800" width ="90%" src="https://github-profile-trophy.vercel.app/?username=mina0maher&cache_seconds=1800" alt="mina0maher" />
   </a> </p>
  
  
 <p align="center">
-<img width = "40%"  align="center" src="https://github-readme-stats.vercel.app/api?username=mina0maher&show_icons=true&locale=en" alt="mina0maher" />
-<img width = "47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina0maher&show_icons=true&locale=en&layout=compact" alt="mina0maher" />
+<img cache_seconds="1800" width = "40%"  align="center" src="https://github-readme-stats.vercel.app/api?username=mina0maher&show_icons=true&locale=en&cache_seconds=1800" alt="mina0maher" />
+<img cache_seconds="1800" width = "47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina0maher&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="mina0maher" />
 </p>
 
 
   <br>
 <p align="center">
-<img width ="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina0maher" alt="mina0maher" /></p>
+<img cache_seconds="1800" width ="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina0maher&cache_seconds=1800" alt="mina0maher" /></p>
   <br>
   
 ![mina's stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mina0maher&theme=nord_bright)
