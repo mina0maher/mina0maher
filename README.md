@@ -75,10 +75,10 @@
 <h2 align="center">Connect with Me 🤝</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mina-maher-39a013215" target="blank"><img align="center" src="https://github.com/yusufadell/yusufadell/raw/main/icons/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:mahermena160@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" alt="gmail" height="30" width="40" /></a>
-  <a href="https://dev.to/mina0maher" target="blank"><img align="center" src="https://github.com/yusufadell/yusufadell/raw/main/icons/dev.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/mena_maherr" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="codeforces" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mina-maher-39a013215" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:mahermena160@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" alt="gmail" height="30" width="30" /></a>
+  <a href="https://dev.to/mina0maher" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="dev.to" height="30" width="30" /></a>
+  <a href="https://codeforces.com/profile/mena_maherr" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="codeforces" height="30" width="30" /></a>
 </p>
 
 ---
