@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mina0maher.mina0maher)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mina0maher.mina0maher)
 <div align="center">
   
 <img align="center" src = "https://raw.githubusercontent.com/yusufadell/yusufadell/main/icons/yusuf.gif">
