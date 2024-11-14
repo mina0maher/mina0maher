@@ -1,11 +1,11 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mina0maher.mina0maher)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mina0maher.mina0maher" alt="Visitors" />
+
 <div align="center">
 
 
 <img align="center" src = "https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
   <br>
 <p align="center"> 
-<img width = "40%" align="center" src ="https://readycle.com/content/images/2021/04/Code-typing-bro-ai.png"></p>
   
 <h1 align="center">Hi <img width = "30" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Mina</h1>
 <h3 align="center">A junior Android developer with 3+ years of experience, passionate about software engineering and Android development.</h3>
