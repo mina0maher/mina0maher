@@ -1,7 +1,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mina0maher.mina0maher)
 <div align="center">
-  
-<img align="center" src = "https://raw.githubusercontent.com/yusufadell/yusufadell/main/icons/yusuf.gif">
+
+
+<img align="center" src = "https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
   <br>
 <p align="center"> 
 <img width = "40%" align="center" src ="https://readycle.com/content/images/2021/04/Code-typing-bro-ai.png"></p>
